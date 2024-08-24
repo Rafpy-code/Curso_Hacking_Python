@@ -1,0 +1,22 @@
+body {
+    padding-top: 20px;
+}
+.resultado {
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #f1f1f1;
+}
+.resultado:hover {
+    background-color: #e9ecef;
+}
+.resultado h5 {
+    color: #007bff;
+}
+.resultado p {
+    font-style: italic;
+}
+.indice {
+    font-weight: bold;
+}
